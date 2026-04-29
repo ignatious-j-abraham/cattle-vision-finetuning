@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.cattle-vision-env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# ROS / robotics
+install/
+build/
+log/
+
+# Environment secrets
+.env
